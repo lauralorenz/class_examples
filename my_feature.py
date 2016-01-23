@@ -1,2 +1,2 @@
-x = 5
-print 5+5
+def my_new_function(greeting):
+	print greeting
