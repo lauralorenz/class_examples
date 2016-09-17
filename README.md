@@ -1,2 +1,2 @@
 # class_examples
-Example repository for class
+Example repository for class.
