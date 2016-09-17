@@ -1,2 +1,2 @@
-# class_examples
+## class_examples
 Example repository for class.
